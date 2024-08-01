@@ -1,6 +1,6 @@
 **Image Gallery**
 
-**Tech that i used in the project**
+**Tech that I used in the project**
 
 HTML, CSS, JAVASCRIPT
 
